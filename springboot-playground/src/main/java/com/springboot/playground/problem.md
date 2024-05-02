@@ -1,0 +1,1 @@
+Create a Spring Boot application that provides a RESTful API for managing a bookstore. The API should allow users to perform CRUD operations (Create, Read, Update, Delete) on books. Each book should have properties like title, author, ISBN, and publication date.
