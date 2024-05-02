@@ -1,0 +1,108 @@
+{
+  "stakeholder": [
+    {
+      "id": 1,
+      "name": {
+        "firstName": "Audrey",
+        "lastName": "Simmmons"
+      },
+      "contactEmail": "caringgene@aol.com",
+      "type": "Individual",
+      "taxId": "#212121",
+      "employeeId": "#3333",
+      "payRollId": "#444",
+      "dob": "12-04-2017",
+      "effectiveDate": "12-04-2017",
+      "relationship": "Ex-employee",
+      "address": "LA",
+      "portfolioEmail": "ckctm12@gmail.com",
+      "costCenter": "Product",
+      "ownership": 0
+    },
+    {
+      "id": 2,
+      "name": {
+        "firstName": "XZY",
+        "lastName": "Simmmons"
+      },
+      "contactEmail": "caringgene@aol.com",
+      "type": "Individual",
+      "taxId": "#212121",
+      "employeeId": "#3333",
+      "payRollId": "#444",
+      "dob": "12-04-2017",
+      "effectiveDate": "12-04-2017",
+      "relationship": "Ex-employee",
+      "address": "LA",
+      "portfolioEmail": "ckctm12@gmail.com",
+      "costCenter": "Product",
+      "ownership": 0
+    },
+    {
+      "name": {
+        "firstName": "z",
+        "lastName": "y"
+      },
+      "contactEmail": "caringgene@aol.co",
+      "type": "Individual",
+      "taxId": "#7777",
+      "employeeId": "#333",
+      "payRollId": "#44",
+      "dob": "12-04-2017",
+      "effectiveDate": "12-19-2017",
+      "relationship": "Ex-employee",
+      "address": "LAA",
+      "portfolioEmail": "ckctm12@gmail.com",
+      "costCenter": "Product",
+      "ownership": 0,
+      "id": 7
+    },
+    {
+      "name": {
+        "firstName": "Audrey",
+        "lastName": "Simmmons"
+      },
+      "contactEmail": "caringgene@aol.com",
+      "type": "Individual",
+      "taxId": "#212121",
+      "employeeId": "#3333",
+      "payRollId": "#444",
+      "dob": "12-04-2017",
+      "effectiveDate": "12-04-2017",
+      "relationship": "Ex-employee",
+      "address": "LA",
+      "portfolioEmail": "ckctm12@gmail.com",
+      "costCenter": "Product",
+      "ownership": 0,
+      "id": 9
+    }
+  ],
+  "capitalization": [
+    {
+      "id": 1,
+      "capitalizationDetails": {
+        "name": "Company XYZ",
+        "authorized": "100,000,000",
+        "raised": "50,000,000",
+        "certificates": "10,000,000"
+      },
+      "outstanding": 75000000,
+      "ownership": 25000000,
+      "fullyDiluted": 90000000,
+      "ownershipPercentage": 33.33
+    },
+    {
+      "id": 2,
+      "capitalizationDetails": {
+        "name": "Apple",
+        "authorized": "100,000,000",
+        "raised": "50,000,000",
+        "certificates": "10,000,000"
+      },
+      "outstanding": 85000000,
+      "ownership": 25000000,
+      "fullyDiluted": 90000000,
+      "ownershipPercentage": 33.33
+    }
+  ]
+}
